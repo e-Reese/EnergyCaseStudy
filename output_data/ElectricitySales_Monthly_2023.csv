@@ -1,0 +1,311 @@
+,period,stateid,stateDescription,sectorid,sectorName,customers,price,revenue,sales,customers-units,price-units,revenue-units,sales-units
+0,2023,AK,Alaska,ALL,all sectors,357119,21.39,1283.90142,6003.63966,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+1,2023,AK,Alaska,RES,residential,298426,23.89,488.93037,2046.18113,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+2,2023,AK,Alaska,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+3,2023,AK,Alaska,IND,industrial,1183,18.74,259.18168,1382.99739,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+4,2023,AK,Alaska,COM,commercial,57510,20.81,535.78938,2574.46114,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+5,2023,AL,Alabama,ALL,all sectors,2757183,11.5,9866.94451,85827.99581,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+6,2023,AL,Alabama,COM,commercial,380934,13.18,2987.20952,22670.85422,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+7,2023,AL,Alabama,IND,industrial,7209,7.13,2226.27246,31236.01034,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+8,2023,AL,Alabama,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+9,2023,AL,Alabama,RES,residential,2369040,14.58,4653.46253,31921.13125,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+10,2023,AR,Arkansas,ALL,all sectors,1716362,9.74,4796.50856,49257.31924,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+11,2023,AR,Arkansas,RES,residential,1472351,12.23,2279.5395,18633.30174,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+12,2023,AR,Arkansas,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+13,2023,AR,Arkansas,IND,industrial,35665,6.87,1286.63213,18728.25769,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+14,2023,AR,Arkansas,COM,commercial,208344,10.34,1230.29706,11895.49157,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+15,2023,AZ,Arizona,ALL,all sectors,3421250,12.14,10357.35528,85329.17189,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+16,2023,AZ,Arizona,COM,commercial,343655,11.74,3788.51209,32268.39231,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+17,2023,AZ,Arizona,IND,industrial,7074,7.93,1127.19073,14217.845,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+18,2023,AZ,Arizona,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+19,2023,AZ,Arizona,RES,residential,3070519,14.01,5440.64455,38832.86812,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+20,2023,CA,California,ALL,all sectors,15989356,24.73,58917.74328,238239.91483,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+21,2023,CA,California,COM,commercial,1764476,23.91,26904.9056,112522.41483,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+22,2023,CA,California,IND,industrial,146857,18.85,7917.2018,41993.79014,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+23,2023,CA,California,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+24,2023,CA,California,RES,residential,14078011,28.92,24001.35242,82998.27748,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+25,2023,CO,Colorado,ALL,all sectors,2881151,11.77,6632.48557,56362.56393,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+26,2023,CO,Colorado,COM,commercial,394062,11.67,2399.3983,20564.18442,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+27,2023,CO,Colorado,IND,industrial,14778,8.56,1322.82939,15450.24953,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+28,2023,CO,Colorado,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+29,2023,CO,Colorado,RES,residential,2472310,14.32,2901.36435,20258.51648,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+30,2023,CT,Connecticut,ALL,all sectors,1704435,24.21,6429.75314,26558.16623,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+31,2023,CT,Connecticut,COM,commercial,157113,19.98,2248.58015,11252.24399,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+32,2023,CT,Connecticut,IND,industrial,3867,15.59,404.0824,2592.10473,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+33,2023,CT,Connecticut,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+34,2023,CT,Connecticut,RES,residential,1543452,29.86,3742.54594,12534.91839,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+35,2023,DC,District of Columbia,ALL,all sectors,342952,16.53,1629.53641,9859.56349,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+36,2023,DC,District of Columbia,RES,residential,315555,16.35,387.82883,2371.64111,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+37,2023,DC,District of Columbia,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+38,2023,DC,District of Columbia,IND,industrial,1,10.88,19.20766,176.56624,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+39,2023,DC,District of Columbia,COM,commercial,27393,17.01,1192.55717,7009.97216,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+40,2023,DE,Delaware,ALL,all sectors,526632,12.96,1426.39124,11005.51617,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+41,2023,DE,Delaware,RES,residential,466012,15.75,775.0393,4922.40124,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+42,2023,DE,Delaware,COM,commercial,59799,11.92,493.46386,4139.12144,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+43,2023,DE,Delaware,IND,industrial,821,8.12,157.88808,1943.99348,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+44,2023,DE,Delaware,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+45,2023,ENC,East North Central,ALL,all sectors,23459985,12.03,64924.60583,539683.39131,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+46,2023,ENC,East North Central,RES,residential,20836878,16.2,29245.28558,180496.54855,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+47,2023,ENC,East North Central,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+48,2023,ENC,East North Central,IND,industrial,54913,8.02,14782.9012,184256.06417,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+49,2023,ENC,East North Central,COM,commercial,2568184,11.96,20863.34233,174467.09385,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+50,2023,ESC,East South Central,ALL,all sectors,10314814,10.87,33073.94464,304261.85793,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+51,2023,ESC,East South Central,RES,residential,8819192,13.13,15486.19488,117977.18007,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+52,2023,ESC,East South Central,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+53,2023,ESC,East South Central,IND,industrial,25086,6.82,6490.12368,95156.62782,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+54,2023,ESC,East South Central,COM,commercial,1470536,12.18,11097.62608,91128.05004,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+55,2023,FL,Florida,IND,industrial,26899,9.53,1636.07039,17163.56977,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+56,2023,FL,Florida,COM,commercial,1286919,11.83,11689.58472,98791.98155,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+57,2023,FL,Florida,ALL,all sectors,11589206,13.51,33862.75469,250740.44367,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+58,2023,FL,Florida,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+59,2023,FL,Florida,RES,residential,10275386,15.24,20529.04874,134713.78776,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+60,2023,GA,Georgia,ALL,all sectors,5403105,11.36,16012.45,141010.09565,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+61,2023,GA,Georgia,COM,commercial,610854,11.4,5467.28223,47975.86552,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+62,2023,GA,Georgia,IND,industrial,23954,6.99,2305.30886,32963.65277,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+63,2023,GA,Georgia,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+64,2023,GA,Georgia,RES,residential,4768296,13.73,8229.34671,59926.45353,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+65,2023,HI,Hawaii,ALL,all sectors,506849,38.7,3439.6468,8887.65798,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+66,2023,HI,Hawaii,COM,commercial,59899,39.38,1088.73216,2764.44967,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+67,2023,HI,Hawaii,IND,industrial,814,35.27,1209.20883,3428.01579,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+68,2023,HI,Hawaii,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+69,2023,HI,Hawaii,RES,residential,446136,42.36,1141.70581,2695.19252,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+70,2023,IA,Iowa,ALL,all sectors,1717840,9.43,5168.18788,54796.13834,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+71,2023,IA,Iowa,RES,residential,1458596,13.21,1972.60509,14938.29093,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+72,2023,IA,Iowa,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+73,2023,IA,Iowa,IND,industrial,8549,6.94,1907.41801,27491.31057,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+74,2023,IA,Iowa,COM,commercial,250695,10.42,1288.16478,12366.53684,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+75,2023,ID,Idaho,ALL,all sectors,1004158,9.12,2325.69093,25509.19849,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+76,2023,ID,Idaho,COM,commercial,122360,8.82,598.4601,6784.05247,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+77,2023,ID,Idaho,IND,industrial,29356,7.19,649.00894,9029.87653,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+78,2023,ID,Idaho,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+79,2023,ID,Idaho,RES,residential,852442,11.12,1078.22189,9695.26949,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+80,2023,IL,Illinois,ALL,all sectors,6052801,11.91,15573.30728,130780.27732,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+81,2023,IL,Illinois,COM,commercial,638056,11.4,5210.56888,45695.10934,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+82,2023,IL,Illinois,IND,industrial,5621,8.37,3438.05626,41087.96805,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+83,2023,IL,Illinois,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+84,2023,IL,Illinois,RES,residential,5409121,15.82,6895.47414,43582.44485,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+85,2023,IN,Indiana,ALL,all sectors,3374847,11.5,10996.75979,95627.46815,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+86,2023,IN,Indiana,COM,commercial,375033,12.54,2865.31408,22852.83608,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+87,2023,IN,Indiana,IND,industrial,19142,8.24,3364.4773,40854.99008,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+88,2023,IN,Indiana,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+89,2023,IN,Indiana,RES,residential,2980671,14.94,4765.42438,31907.56734,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+90,2023,KS,Kansas,ALL,all sectors,1607420,11.12,4605.63995,41418.94946,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+91,2023,KS,Kansas,COM,commercial,248655,11.11,1783.74545,16054.46651,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+92,2023,KS,Kansas,IND,industrial,24352,8.06,918.28709,11387.02482,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+93,2023,KS,Kansas,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+94,2023,KS,Kansas,RES,residential,1334413,13.62,1903.60741,13977.45813,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+95,2023,KY,Kentucky,ALL,all sectors,2358556,10.05,7032.41795,69942.77244,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+96,2023,KY,Kentucky,COM,commercial,324092,11.49,2152.03985,18731.77722,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+97,2023,KY,Kentucky,IND,industrial,5767,6.66,1732.33177,26010.88287,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+98,2023,KY,Kentucky,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+99,2023,KY,Kentucky,RES,residential,2028697,12.49,3148.04633,25200.11235,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+100,2023,LA,Louisiana,ALL,all sectors,2494974,8.88,8521.51722,95999.65571,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+101,2023,LA,Louisiana,COM,commercial,300030,10.3,2477.90542,24055.07049,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+102,2023,LA,Louisiana,IND,industrial,18523,5.9,2361.3802,40007.88569,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+103,2023,LA,Louisiana,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+104,2023,LA,Louisiana,RES,residential,2176420,11.53,3681.08113,31926.24451,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+105,2023,MA,Massachusetts,ALL,all sectors,3341718,22.97,11391.74191,49600.31186,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+106,2023,MA,Massachusetts,RES,residential,2880163,29.4,5680.57969,19324.32535,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+107,2023,MA,Massachusetts,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+108,2023,MA,Massachusetts,IND,industrial,10516,17.77,1083.99038,6101.65613,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+109,2023,MA,Massachusetts,COM,commercial,451037,19.28,4607.20533,23894.98262,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+110,2023,MAT,Middle Atlantic,ALL,all sectors,19120679,15.43,53716.63712,348088.85481,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+111,2023,MAT,Middle Atlantic,RES,residential,16630008,19.61,25724.43051,131167.41397,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+112,2023,MAT,Middle Atlantic,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+113,2023,MAT,Middle Atlantic,IND,industrial,33367,7.88,5611.28585,71250.88114,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+114,2023,MAT,Middle Atlantic,COM,commercial,2457284,15.38,21874.38544,142242.78443,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+115,2023,MD,Maryland,ALL,all sectors,2709618,14.37,8164.56206,56808.19506,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+116,2023,MD,Maryland,RES,residential,2438664,16.59,4339.47231,26153.95375,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+117,2023,MD,Maryland,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+118,2023,MD,Maryland,IND,industrial,9092,9.93,340.95181,3432.57623,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+119,2023,MD,Maryland,COM,commercial,261857,12.82,3438.32855,26813.59988,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+120,2023,ME,Maine,ALL,all sectors,851216,20.95,2353.05301,11231.06412,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+121,2023,ME,Maine,COM,commercial,109827,17.92,716.49407,3999.08289,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+122,2023,ME,Maine,IND,industrial,2001,12.43,289.04369,2325.17558,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+123,2023,ME,Maine,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+124,2023,ME,Maine,RES,residential,739388,27.46,1347.51524,4906.80565,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+125,2023,MI,Michigan,ALL,all sectors,5083946,13.66,13320.3184,97525.78215,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+126,2023,MI,Michigan,COM,commercial,560866,13.34,4877.5547,36558.49515,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+127,2023,MI,Michigan,IND,industrial,5641,8.24,2328.60151,28262.52973,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+128,2023,MI,Michigan,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+129,2023,MI,Michigan,RES,residential,4517437,18.7,6113.41681,32699.30512,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+130,2023,MN,Minnesota,ALL,all sectors,2899680,12.17,8088.74814,66481.9712,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+131,2023,MN,Minnesota,COM,commercial,307106,12.38,2776.22443,22431.7247,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+132,2023,MN,Minnesota,IND,industrial,9401,9.19,1887.39296,20542.29909,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+133,2023,MN,Minnesota,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+134,2023,MN,Minnesota,RES,residential,2583172,14.57,3422.90372,23489.91857,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+135,2023,MO,Missouri,ALL,all sectors,3244795,11.01,8466.46817,76931.83809,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+136,2023,MO,Missouri,RES,residential,2849473,12.77,4482.41693,35088.25824,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+137,2023,MO,Missouri,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+138,2023,MO,Missouri,IND,industrial,9433,7.97,1018.22591,12772.84882,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+139,2023,MO,Missouri,COM,commercial,385887,10.2,2963.61911,29048.28481,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+140,2023,MS,Mississippi,ALL,all sectors,1617814,11.1,5506.22649,49625.88175,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+141,2023,MS,Mississippi,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+142,2023,MS,Mississippi,COM,commercial,243709,12.36,1824.99465,14769.08175,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+143,2023,MS,Mississippi,IND,industrial,11085,7.11,1121.98469,15787.01029,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+144,2023,MS,Mississippi,RES,residential,1363020,13.42,2559.24715,19069.78971,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+145,2023,MT,Montana,ALL,all sectors,682399,10.91,1687.92789,15466.80484,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+146,2023,MT,Montana,COM,commercial,117289,12.03,604.12494,5022.43056,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+147,2023,MT,Montana,IND,industrial,10939,7.86,368.07337,4685.11909,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+148,2023,MT,Montana,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+149,2023,MT,Montana,RES,residential,554171,12.43,715.72958,5759.2552,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+150,2023,MTN,Mountain,IND,industrial,98877,7.8,6763.37923,86708.82143,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+151,2023,MTN,Mountain,COM,commercial,1498072,11,11355.87713,103195.88089,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+152,2023,MTN,Mountain,ALL,all sectors,12255028,11.07,33155.75378,299597.6228,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+153,2023,MTN,Mountain,RES,residential,10658074,13.71,15019.0024,109531.70291,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+154,2023,MTN,Mountain,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+155,2023,NC,North Carolina,ALL,all sectors,5769882,10.86,14656.33568,134982.40948,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+156,2023,NC,North Carolina,RES,residential,5017625,13.24,7879.60667,59515.43641,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+157,2023,NC,North Carolina,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+158,2023,NC,North Carolina,IND,industrial,9160,7.34,1933.69733,26354.79958,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+159,2023,NC,North Carolina,COM,commercial,743096,9.86,4841.91283,49099.55347,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+160,2023,ND,North Dakota,ALL,all sectors,483256,7.92,2267.68802,28646.89058,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+161,2023,ND,North Dakota,RES,residential,396395,10.97,559.09018,5098.39396,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+162,2023,ND,North Dakota,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+163,2023,ND,North Dakota,IND,industrial,9388,6.98,971.53065,13928.31478,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+164,2023,ND,North Dakota,COM,commercial,77473,7.66,737.06719,9620.18184,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+165,2023,NE,Nebraska,ALL,all sectors,1133329,9.19,3074.54448,33447.22637,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+166,2023,NE,Nebraska,COM,commercial,162399,9.2,880.37524,9564.12696,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+167,2023,NE,Nebraska,IND,industrial,65059,7.49,988.92984,13208.6414,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+168,2023,NE,Nebraska,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+169,2023,NE,Nebraska,RES,residential,905871,11.29,1205.2394,10674.45802,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+170,2023,NEW,New England,ALL,all sectors,7529437,22.73,25140.09319,110585.80261,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+171,2023,NEW,New England,RES,residential,6558855,28.72,13367.22591,46546.60093,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+172,2023,NEW,New England,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+173,2023,NEW,New England,IND,industrial,21283,15.8,2346.83655,14855.65772,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+174,2023,NEW,New England,COM,commercial,949293,19.23,9366.98758,48699.08349,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+175,2023,NH,New Hampshire,ALL,all sectors,762298,22.98,2434.05698,10590.63261,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+176,2023,NH,New Hampshire,RES,residential,647710,28.31,1307.60015,4618.81454,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+177,2023,NH,New Hampshire,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+178,2023,NH,New Hampshire,IND,industrial,3118,15.81,304.04811,1923.56494,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+179,2023,NH,New Hampshire,COM,commercial,111470,20.32,822.40872,4048.25313,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+180,2023,NJ,New Jersey,ALL,all sectors,4274005,15.41,10854.16846,70453.47874,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+181,2023,NJ,New Jersey,RES,residential,3719353,17.73,5041.70656,28428.649,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+182,2023,NJ,New Jersey,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+183,2023,NJ,New Jersey,IND,industrial,11419,12.02,730.39056,6078.17411,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+184,2023,NJ,New Jersey,COM,commercial,543226,14.15,5046.38255,35673.1777,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+185,2023,NM,New Mexico,ALL,all sectors,1070744,9.67,2774.13445,28696.29591,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+186,2023,NM,New Mexico,RES,residential,914667,14.16,1041.29233,7353.97608,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+187,2023,NM,New Mexico,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+188,2023,NM,New Mexico,IND,industrial,9415,5.91,712.84027,12054.67388,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+189,2023,NM,New Mexico,COM,commercial,146662,10.98,1020.00185,9287.64595,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+190,2023,NV,Nevada,ALL,all sectors,1473831,13.01,4990.95538,38349.27005,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+191,2023,NV,Nevada,COM,commercial,175129,11.79,1463.02453,12409.01015,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+192,2023,NV,Nevada,IND,industrial,4575,10.25,1273.32114,12416.70949,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+193,2023,NV,Nevada,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+194,2023,NV,Nevada,RES,residential,1294126,16.67,2253.69386,13516.36946,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+195,2023,NY,New York,ALL,all sectors,8576062,18.32,25480.30916,139060.5008,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+196,2023,NY,New York,COM,commercial,1179843,18.06,12826.90438,71008.07926,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+197,2023,NY,New York,IND,industrial,7029,6.89,1036.08173,15037.55016,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+198,2023,NY,New York,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+199,2023,NY,New York,RES,residential,7389182,22.25,11191.51102,50301.91109,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+200,2023,OH,Ohio,ALL,all sectors,5740516,11.12,16318.74773,146739.37793,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+201,2023,OH,Ohio,COM,commercial,625028,10.76,4966.38311,46167.48939,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+202,2023,OH,Ohio,IND,industrial,18891,7.18,3636.67861,50630.79715,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+203,2023,OH,Ohio,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+204,2023,OH,Ohio,RES,residential,5096595,15.46,7714.30266,49910.8274,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+205,2023,OK,Oklahoma,ALL,all sectors,2201069,9.4,6468.46368,68805.38403,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+206,2023,OK,Oklahoma,COM,commercial,303066,9.39,2103.15479,22403.14591,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+207,2023,OK,Oklahoma,IND,industrial,18698,6.34,1425.02893,22467.6616,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+208,2023,OK,Oklahoma,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+209,2023,OK,Oklahoma,RES,residential,1879305,12.28,2940.27996,23934.57653,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+210,2023,OR,Oregon,ALL,all sectors,2134887,10.23,5519.792,53982.07189,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+211,2023,OR,Oregon,COM,commercial,249845,10.29,1763.38072,17142.57958,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+212,2023,OR,Oregon,IND,industrial,25454,7.1,1165.00854,16399.62531,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+213,2023,OR,Oregon,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+214,2023,OR,Oregon,RES,residential,1859586,12.68,2588.82063,20417.23751,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+215,2023,PA,Pennsylvania,ALL,all sectors,6270612,12.54,17382.15951,138574.87527,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+216,2023,PA,Pennsylvania,COM,commercial,734215,11.25,4001.09851,35561.52747,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+217,2023,PA,Pennsylvania,IND,industrial,14919,7.67,3844.81356,50135.15687,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+218,2023,PA,Pennsylvania,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+219,2023,PA,Pennsylvania,RES,residential,5521473,18.1,9491.21294,52436.85388,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+220,2023,PACC,Pacific Contiguous,ALL,all sectors,21889511,19.15,72958.5132,380923.81182,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+221,2023,PACC,Pacific Contiguous,RES,residential,19269295,21.69,30850.36347,142202.52275,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+222,2023,PACC,Pacific Contiguous,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+223,2023,PACC,Pacific Contiguous,IND,industrial,199498,13.15,10393.0207,79041.32319,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+224,2023,PACC,Pacific Contiguous,COM,commercial,2420699,19.9,31607.56468,158828.51279,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+225,2023,PACN,Pacific Noncontiguous,ALL,all sectors,863968,31.72,4723.54822,14891.29764,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+226,2023,PACN,Pacific Noncontiguous,RES,residential,744562,34.39,1630.63618,4741.37365,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+227,2023,PACN,Pacific Noncontiguous,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+228,2023,PACN,Pacific Noncontiguous,IND,industrial,1997,30.52,1468.3905,4811.01318,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+229,2023,PACN,Pacific Noncontiguous,COM,commercial,117409,30.43,1624.52154,5338.91081,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+230,2023,RI,Rhode Island,ALL,all sectors,487183,21.97,1594.32923,7256.08728,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+231,2023,RI,Rhode Island,COM,commercial,57600,17.52,631.79253,3605.99786,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+232,2023,RI,Rhode Island,IND,industrial,1532,19.08,119.99309,628.88286,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+233,2023,RI,Rhode Island,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+234,2023,RI,Rhode Island,RES,residential,428050,27.98,838.01163,2994.99297,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+235,2023,SAT,South Atlantic,ALL,all sectors,34433803,12.03,101934.60968,847265.82706,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+236,2023,SAT,South Atlantic,RES,residential,30346066,14.55,54289.00303,373039.80613,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+237,2023,SAT,South Atlantic,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+238,2023,SAT,South Atlantic,IND,industrial,88401,7.68,10686.56495,139141.59578,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+239,2023,SAT,South Atlantic,COM,commercial,3999323,11.03,36838.64977,333907.51753,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+240,2023,SC,South Carolina,ALL,all sectors,2952063,10.76,8852.04716,82275.80688,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+241,2023,SC,South Carolina,COM,commercial,405742,10.59,2680.62805,25305.13231,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+242,2023,SC,South Carolina,IND,industrial,3550,6.8,1734.7969,25495.99295,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+243,2023,SC,South Carolina,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+244,2023,SC,South Carolina,RES,residential,2542771,14.1,4436.62222,31474.68162,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+245,2023,SD,South Dakota,ALL,all sectors,514813,10.42,1403.48344,13471.6492,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+246,2023,SD,South Dakota,COM,commercial,77695,10.04,496.88013,4947.76053,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+247,2023,SD,South Dakota,IND,industrial,4324,8.01,259.36244,3238.49054,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+248,2023,SD,South Dakota,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+249,2023,SD,South Dakota,RES,residential,432794,12.25,647.24087,5285.39813,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+250,2023,TN,Tennessee,ALL,all sectors,3581261,10.79,10668.35569,98865.20793,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+251,2023,TN,Tennessee,COM,commercial,521801,11.82,4133.38206,34956.33685,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+252,2023,TN,Tennessee,IND,industrial,1025,6.37,1409.53476,22122.72432,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+253,2023,TN,Tennessee,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+254,2023,TN,Tennessee,RES,residential,3058435,12.27,5125.43887,41786.14676,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+255,2023,TX,Texas,ALL,all sectors,14064725,9.99,48634.81533,486786.78554,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+256,2023,TX,Texas,RES,residential,12145036,14.32,23756.64949,165917.18783,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+257,2023,TX,Texas,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+258,2023,TX,Texas,IND,industrial,353952,6.63,10999.21034,165954.54307,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+259,2023,TX,Texas,COM,commercial,1565734,8.96,13864.75435,154727.42847,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+260,2023,US,U.S. Total,ALL,all sectors,161945488,12.72,491123.77049,3861342.27374,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+261,2023,US,U.S. Total,COM,commercial,19367884,12.74,175231.14249,1374922.05246,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+262,2023,US,U.S. Total,IND,industrial,1080766,8.06,82565.90114,1024949.26249,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+263,2023,US,U.S. Total,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+264,2023,US,U.S. Total,RES,residential,141496756,15.98,232462.79565,1454666.63552,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+265,2023,UT,Utah,ALL,all sectors,1364543,9.03,2983.84316,33051.48427,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+266,2023,UT,Utah,RES,residential,1213815,11.2,1247.62511,11142.90097,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+267,2023,UT,Utah,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+268,2023,UT,Utah,IND,industrial,10797,6.99,604.27125,8640.72137,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+269,2023,UT,Utah,COM,commercial,139930,8.52,1125.26908,13213.50529,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+270,2023,VA,Virginia,ALL,all sectors,4111450,10.92,14035.2144,128508.01839,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+271,2023,VA,Virginia,RES,residential,3655480,14.34,6271.25235,43724.77037,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+272,2023,VA,Virginia,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+273,2023,VA,Virginia,IND,industrial,3847,8.83,1496.78738,16947.72076,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+274,2023,VA,Virginia,COM,commercial,452122,9.23,6242.21678,67595.91728,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+275,2023,VT,Vermont,ALL,all sectors,382587,17.52,937.15892,5349.54052,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+276,2023,VT,Vermont,RES,residential,320092,20.81,450.97326,2166.74403,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+277,2023,VT,Vermont,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+278,2023,VT,Vermont,IND,industrial,249,11.34,145.67888,1284.27349,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+279,2023,VT,Vermont,COM,commercial,62246,17.94,340.50678,1898.523,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+280,2023,WA,Washington,ALL,all sectors,3765268,9.61,8520.97792,88701.82511,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+281,2023,WA,Washington,RES,residential,3331698,10.98,4260.19042,38787.00776,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+282,2023,WA,Washington,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+283,2023,WA,Washington,IND,industrial,27187,6.35,1310.81036,20647.90774,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+284,2023,WA,Washington,COM,commercial,406378,10.08,2939.27836,29163.51839,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+285,2023,WI,Wisconsin,ALL,all sectors,3207875,12.63,8715.47263,69010.48577,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+286,2023,WI,Wisconsin,RES,residential,2833054,16.77,3756.66759,22396.40384,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+287,2023,WI,Wisconsin,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+288,2023,WI,Wisconsin,IND,industrial,5618,8.6,2015.08753,23419.77916,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+289,2023,WI,Wisconsin,COM,commercial,369201,12.69,2943.52156,23193.16389,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+290,2023,WNC,West North Central,ALL,all sectors,11601133,10.49,33074.76007,315194.66324,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+291,2023,WNC,West North Central,RES,residential,9960714,13.07,14193.10361,108552.17598,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+292,2023,WNC,West North Central,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+293,2023,WNC,West North Central,IND,industrial,130506,7.75,7951.1469,102568.93002,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+294,2023,WNC,West North Central,COM,commercial,1509910,10.5,10926.07632,104033.08219,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+295,2023,WSC,West South Central,ALL,all sectors,20477130,9.76,68421.30477,700849.14452,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+296,2023,WSC,West South Central,RES,residential,17673112,13.58,32657.55009,240411.3106,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+297,2023,WSC,West South Central,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+298,2023,WSC,West South Central,IND,industrial,426838,6.5,16072.2516,247158.34805,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+299,2023,WSC,West South Central,COM,commercial,2377174,9.23,19676.11162,213081.13644,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+300,2023,WV,West Virginia,IND,industrial,11077,7.24,1061.85655,14662.724,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+301,2023,WV,West Virginia,COM,commercial,151541,11.05,792.67559,7176.37393,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+302,2023,WV,West Virginia,ALL,all sectors,1028895,10.27,3295.31804,32075.77827,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+303,2023,WV,West Virginia,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+304,2023,WV,West Virginia,RES,residential,866277,14.07,1440.7859,10236.68035,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+305,2023,WY,Wyoming,ALL,all sectors,356952,8.34,1403.36113,16832.8334,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+306,2023,WY,Wyoming,COM,commercial,58985,9.79,357.08625,3646.65974,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+307,2023,WY,Wyoming,IND,industrial,11943,6.91,705.84414,10213.62655,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+308,2023,WY,Wyoming,OTH,other,,,,,number of customers,cents per kilowatthour,million dollars,million kilowatthours
+309,2023,WY,Wyoming,RES,residential,286024,11.45,340.43074,2972.54712,number of customers,cents per kilowatthour,million dollars,million kilowatthours

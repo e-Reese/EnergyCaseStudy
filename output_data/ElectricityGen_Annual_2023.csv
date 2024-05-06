@@ -1,0 +1,276 @@
+year,location,stateDescription,fueltypeid,fuelTypeDescription,total-annual-consumption,total-consumption-units,total-annual-generation,generation-units
+2023,AK,Alaska,ALL,all fuels,0,thousand physical units,6562.6356099999994,thousand megawatthours
+2023,AK,Alaska,NGO,natural gas & other gases,33367.697999999997,thousand Mcf,3438.2071400000004,thousand megawatthours
+2023,AK,Alaska,REN,renewable,761.8359999999999,thousand physical units,1530.1658300000001,thousand megawatthours
+2023,AK,Alaska,PET,petroleum,1689.6960000000001,thousand barrels,886.2032099999999,thousand megawatthours
+2023,AK,Alaska,COW,all coal products,955.42299999999977,thousand short tons,710.50245999999993,thousand megawatthours
+2023,AL,Alabama,ALL,all fuels,0,thousand physical units,140373.55952000001,thousand megawatthours
+2023,AL,Alabama,NGO,natural gas & other gases,482224.51799999992,thousand Mcf,61391.927699999993,thousand megawatthours
+2023,AL,Alabama,NUC,nuclear,0,thousand physical units,45579.038999999997,thousand megawatthours
+2023,AL,Alabama,COW,all coal products,10966.454000000002,thousand short tons,19182.336049999998,thousand megawatthours
+2023,AL,Alabama,REN,renewable,11760.334999999999,thousand physical units,14204.504600000002,thousand megawatthours
+2023,AL,Alabama,PET,petroleum,36.466999999999999,thousand barrels,12.84614,thousand megawatthours
+2023,AR,Arkansas,ALL,all fuels,0,thousand physical units,61439.532069999994,thousand megawatthours
+2023,AR,Arkansas,NGO,natural gas & other gases,194576.00700000001,thousand Mcf,24316.847509999996,thousand megawatthours
+2023,AR,Arkansas,COW,all coal products,10144.813999999998,thousand short tons,16844.436460000001,thousand megawatthours
+2023,AR,Arkansas,NUC,nuclear,0,thousand physical units,14972.480999999998,thousand megawatthours
+2023,AR,Arkansas,REN,renewable,3726.7989999999995,thousand physical units,5155.6287000000002,thousand megawatthours
+2023,AR,Arkansas,PET,petroleum,66.61099999999999,thousand barrels,39.778230000000001,thousand megawatthours
+2023,AZ,Arizona,ALL,all fuels,0,thousand physical units,111574.55085,thousand megawatthours
+2023,AZ,Arizona,NGO,natural gas & other gases,402671.73700000002,thousand Mcf,52836.463359999994,thousand megawatthours
+2023,AZ,Arizona,NUC,nuclear,0,thousand physical units,31522.589999999997,thousand megawatthours
+2023,AZ,Arizona,REN,renewable,172.053,thousand physical units,15073.541300000001,thousand megawatthours
+2023,AZ,Arizona,COW,all coal products,7260.6140000000005,thousand short tons,12008.48928,thousand megawatthours
+2023,AZ,Arizona,PET,petroleum,61.345000000000006,thousand barrels,31.2439,thousand megawatthours
+2023,CA,California,ALL,all fuels,0,thousand physical units,216312.47014999998,thousand megawatthours
+2023,CA,California,REN,renewable,54129.059000000008,thousand physical units,103336.89888999998,thousand megawatthours
+2023,CA,California,NGO,natural gas & other gases,781483.08400000003,thousand Mcf,95676.902810000014,thousand megawatthours
+2023,CA,California,NUC,nuclear,0,thousand physical units,17718.367999999999,thousand megawatthours
+2023,CA,California,COW,all coal products,539.97599999999989,thousand short tons,208.86165999999997,thousand megawatthours
+2023,CA,California,PET,petroleum,184.03218999999999,thousand barrels,76.654810000000012,thousand megawatthours
+2023,CO,Colorado,ALL,all fuels,0,thousand physical units,57111.17555,thousand megawatthours
+2023,CO,Colorado,REN,renewable,1972.0079999999998,thousand physical units,21077.343159999997,thousand megawatthours
+2023,CO,Colorado,COW,all coal products,10964.061,thousand short tons,18787.584350000001,thousand megawatthours
+2023,CO,Colorado,NGO,natural gas & other gases,138303.20300000001,thousand Mcf,17161.39921,thousand megawatthours
+2023,CO,Colorado,PET,petroleum,68.058000000000007,thousand barrels,31.060670000000002,thousand megawatthours
+2023,CT,Connecticut,ALL,all fuels,0,thousand physical units,39940.511370000007,thousand megawatthours
+2023,CT,Connecticut,NGO,natural gas & other gases,175867.67299999998,thousand Mcf,24483.741359999996,thousand megawatthours
+2023,CT,Connecticut,NUC,nuclear,0,thousand physical units,13669.458000000002,thousand megawatthours
+2023,CT,Connecticut,REN,renewable,1096.095,thousand physical units,1188.4815900000001,thousand megawatthours
+2023,CT,Connecticut,PET,petroleum,287.08199999999999,thousand barrels,119.24506,thousand megawatthours
+2023,CT,Connecticut,COW,all coal products,0,thousand short tons,0,thousand megawatthours
+2023,DE,Delaware,ALL,all fuels,0,thousand physical units,4759.2156300000006,thousand megawatthours
+2023,DE,Delaware,NGO,natural gas & other gases,48708.333000000006,thousand Mcf,4518.1882000000005,thousand megawatthours
+2023,DE,Delaware,REN,renewable,1612.1949999999999,thousand physical units,236.75619999999998,thousand megawatthours
+2023,DE,Delaware,PET,petroleum,7.5030000000000001,thousand barrels,0,thousand megawatthours
+2023,DE,Delaware,COW,all coal products,13.315999999999999,thousand short tons,-6.4984099999999998,thousand megawatthours
+2023,FL,Florida,ALL,all fuels,0,thousand physical units,260267.01475999999,thousand megawatthours
+2023,FL,Florida,NGO,natural gas & other gases,1456601.716,thousand Mcf,197260.88211000001,thousand megawatthours
+2023,FL,Florida,NUC,nuclear,0,thousand physical units,29940.194000000003,thousand megawatthours
+2023,FL,Florida,REN,renewable,20894.616999999995,thousand physical units,17793.326639999999,thousand megawatthours
+2023,FL,Florida,COW,all coal products,5566.335,thousand short tons,11702.536979999999,thousand megawatthours
+2023,FL,Florida,PET,petroleum,2443.8359700000001,thousand barrels,1202.2846099999999,thousand megawatthours
+2023,GA,Georgia,ALL,all fuels,0,thousand physical units,132671.70189999999,thousand megawatthours
+2023,GA,Georgia,NGO,natural gas & other gases,474796.86099999998,thousand Mcf,62277.873199999987,thousand megawatthours
+2023,GA,Georgia,NUC,nuclear,0,thousand physical units,37840.406999999999,thousand megawatthours
+2023,GA,Georgia,COW,all coal products,8772.353000000001,thousand short tons,16765.149170000001,thousand megawatthours
+2023,GA,Georgia,REN,renewable,20070.638999999996,thousand physical units,16094.041210000001,thousand megawatthours
+2023,GA,Georgia,PET,petroleum,2126.2829999999999,thousand barrels,125.18854,thousand megawatthours
+2023,HI,Hawaii,ALL,all fuels,0,thousand physical units,9471.5737800000006,thousand megawatthours
+2023,HI,Hawaii,PET,petroleum,12868.049000000001,thousand barrels,7289.2104799999997,thousand megawatthours
+2023,HI,Hawaii,REN,renewable,597.57600000000002,thousand physical units,2006.0043500000002,thousand megawatthours
+2023,HI,Hawaii,NGO,natural gas & other gases,0,thousand Mcf,0,thousand megawatthours
+2023,IA,Iowa,ALL,all fuels,0,thousand physical units,70318.245490000001,thousand megawatthours
+2023,IA,Iowa,REN,renewable,2327.7779999999998,thousand physical units,43348.558060000003,thousand megawatthours
+2023,IA,Iowa,COW,all coal products,11480.647000000001,thousand short tons,16441.381590000001,thousand megawatthours
+2023,IA,Iowa,NGO,natural gas & other gases,95358.099000000017,thousand Mcf,10458.960419999999,thousand megawatthours
+2023,IA,Iowa,PET,petroleum,347.42200000000003,thousand barrels,69.361379999999997,thousand megawatthours
+2023,ID,Idaho,ALL,all fuels,0,thousand physical units,15504.798629999998,thousand megawatthours
+2023,ID,Idaho,REN,renewable,2923.8150000000001,thousand physical units,10447.69399,thousand megawatthours
+2023,ID,Idaho,NGO,natural gas & other gases,49282.728000000003,thousand Mcf,4977.9800400000004,thousand megawatthours
+2023,ID,Idaho,PET,petroleum,0.27399999999999997,thousand barrels,0.12339000000000001,thousand megawatthours
+2023,ID,Idaho,COW,all coal products,0,thousand short tons,0,thousand megawatthours
+2023,IL,Illinois,ALL,all fuels,0,thousand physical units,177823.70170999999,thousand megawatthours
+2023,IL,Illinois,NUC,nuclear,0,thousand physical units,97559.460000000006,thousand megawatthours
+2023,IL,Illinois,NGO,natural gas & other gases,370269.42399999994,thousand Mcf,28455.237660000003,thousand megawatthours
+2023,IL,Illinois,COW,all coal products,17457.274999999998,thousand short tons,27150.442519999997,thousand megawatthours
+2023,IL,Illinois,REN,renewable,7270.8630000000003,thousand physical units,24374.595249999998,thousand megawatthours
+2023,IL,Illinois,PET,petroleum,60.037999999999997,thousand barrels,27.769639999999995,thousand megawatthours
+2023,IN,Indiana,ALL,all fuels,0,thousand physical units,90996.330749999994,thousand megawatthours
+2023,IN,Indiana,COW,all coal products,21165.09175,thousand short tons,40978.802329999999,thousand megawatthours
+2023,IN,Indiana,NGO,natural gas & other gases,746818.95900000003,thousand Mcf,37313.812330000001,thousand megawatthours
+2023,IN,Indiana,REN,renewable,8571.6759999999995,thousand physical units,12123.50469,thousand megawatthours
+2023,IN,Indiana,PET,petroleum,207.48700000000002,thousand barrels,98.602409999999992,thousand megawatthours
+2023,KS,Kansas,ALL,all fuels,0,thousand physical units,59263.099199999997,thousand megawatthours
+2023,KS,Kansas,REN,renewable,1180.9950000000001,thousand physical units,27618.613669999999,thousand megawatthours
+2023,KS,Kansas,COW,all coal products,10482.428,thousand short tons,16290.683620000002,thousand megawatthours
+2023,KS,Kansas,NUC,nuclear,0,thousand physical units,10301.865000000002,thousand megawatthours
+2023,KS,Kansas,NGO,natural gas & other gases,50556.284,thousand Mcf,4994.5636599999998,thousand megawatthours
+2023,KS,Kansas,PET,petroleum,117.25,thousand barrels,50.507850000000005,thousand megawatthours
+2023,KY,Kentucky,ALL,all fuels,0,thousand physical units,63492.719559999998,thousand megawatthours
+2023,KY,Kentucky,COW,all coal products,20800.517000000003,thousand short tons,43421.196919999995,thousand megawatthours
+2023,KY,Kentucky,NGO,natural gas & other gases,112241.57100000001,thousand Mcf,14637.854810000003,thousand megawatthours
+2023,KY,Kentucky,REN,renewable,3919.8600000000001,thousand physical units,5254.2887199999996,thousand megawatthours
+2023,KY,Kentucky,PET,petroleum,179.40899999999996,thousand barrels,88.255879999999991,thousand megawatthours
+2023,LA,Louisiana,ALL,all fuels,0,thousand physical units,97596.77545999999,thousand megawatthours
+2023,LA,Louisiana,NGO,natural gas & other gases,736767.32899999991,thousand Mcf,76079.20756000001,thousand megawatthours
+2023,LA,Louisiana,NUC,nuclear,0,thousand physical units,12211.456999999999,thousand megawatthours
+2023,LA,Louisiana,COW,all coal products,3098.2999999999997,thousand short tons,4833.6269400000001,thousand megawatthours
+2023,LA,Louisiana,REN,renewable,6721.7360000000008,thousand physical units,3203.2185400000003,thousand megawatthours
+2023,LA,Louisiana,PET,petroleum,2022.9550000000002,thousand barrels,1030.88491,thousand megawatthours
+2023,MA,Massachusetts,ALL,all fuels,0,thousand physical units,19516.760860000002,thousand megawatthours
+2023,MA,Massachusetts,NGO,natural gas & other gases,122995.61299999998,thousand Mcf,14850.080569999998,thousand megawatthours
+2023,MA,Massachusetts,REN,renewable,6018.1309999999994,thousand physical units,4023.4574400000001,thousand megawatthours
+2023,MA,Massachusetts,PET,petroleum,155.29230000000001,thousand barrels,83.898880000000005,thousand megawatthours
+2023,MA,Massachusetts,COW,all coal products,0,thousand short tons,0,thousand megawatthours
+2023,MD,Maryland,ALL,all fuels,0,thousand physical units,36104.323299999996,thousand megawatthours
+2023,MD,Maryland,NGO,natural gas & other gases,116555.87300000001,thousand Mcf,15347.66511,thousand megawatthours
+2023,MD,Maryland,NUC,nuclear,0,thousand physical units,15027.162,thousand megawatthours
+2023,MD,Maryland,REN,renewable,2109.1709999999998,thousand physical units,3636.6486500000001,thousand megawatthours
+2023,MD,Maryland,COW,all coal products,902.40200000000004,thousand short tons,1708.9703999999999,thousand megawatthours
+2023,MD,Maryland,PET,petroleum,183.78,thousand barrels,62.805709999999998,thousand megawatthours
+2023,ME,Maine,ALL,all fuels,0,thousand physical units,11372.97069,thousand megawatthours
+2023,ME,Maine,REN,renewable,4535.5429999999997,thousand physical units,7646.9986099999996,thousand megawatthours
+2023,ME,Maine,NGO,natural gas & other gases,29900.678999999996,thousand Mcf,3341.3240299999998,thousand megawatthours
+2023,ME,Maine,PET,petroleum,201.99609000000001,thousand barrels,60.840649999999989,thousand megawatthours
+2023,ME,Maine,COW,all coal products,66.106999999999999,thousand short tons,43.205040000000004,thousand megawatthours
+2023,MI,Michigan,ALL,all fuels,0,thousand physical units,122528.16659999998,thousand megawatthours
+2023,MI,Michigan,NGO,natural gas & other gases,510353.40199999994,thousand Mcf,57425.469440000001,thousand megawatthours
+2023,MI,Michigan,NUC,nuclear,0,thousand physical units,27996.108,thousand megawatthours
+2023,MI,Michigan,COW,all coal products,12875.559999999999,thousand short tons,23571.332349999997,thousand megawatthours
+2023,MI,Michigan,REN,renewable,20943.613000000001,thousand physical units,12850.097009999999,thousand megawatthours
+2023,MI,Michigan,PET,petroleum,4257.0060000000003,thousand barrels,1360.04144,thousand megawatthours
+2023,MN,Minnesota,ALL,all fuels,0,thousand physical units,57701.350249999996,thousand megawatthours
+2023,MN,Minnesota,REN,renewable,4416.2029999999995,thousand physical units,18553.235959999998,thousand megawatthours
+2023,MN,Minnesota,NGO,natural gas & other gases,111905.061,thousand Mcf,14102.238629999998,thousand megawatthours
+2023,MN,Minnesota,COW,all coal products,8080.5899999999992,thousand short tons,12771.891290000003,thousand megawatthours
+2023,MN,Minnesota,NUC,nuclear,0,thousand physical units,11923.651999999998,thousand megawatthours
+2023,MN,Minnesota,PET,petroleum,79.474999999999994,thousand barrels,36.834770000000006,thousand megawatthours
+2023,MO,Missouri,ALL,all fuels,0,thousand physical units,67137.487840000002,thousand megawatthours
+2023,MO,Missouri,COW,all coal products,24121.833000000002,thousand short tons,40347.590189999995,thousand megawatthours
+2023,MO,Missouri,NUC,nuclear,0,thousand physical units,9179.7439999999988,thousand megawatthours
+2023,MO,Missouri,NGO,natural gas & other gases,90178.831000000006,thousand Mcf,9094.5907999999999,thousand megawatthours
+2023,MO,Missouri,REN,renewable,1562.0089999999998,thousand physical units,8471.5334399999992,thousand megawatthours
+2023,MO,Missouri,PET,petroleum,221.37799999999999,thousand barrels,93.079439999999991,thousand megawatthours
+2023,MS,Mississippi,ALL,all fuels,0,thousand physical units,73499.246189999991,thousand megawatthours
+2023,MS,Mississippi,NGO,natural gas & other gases,420017.25900000002,thousand Mcf,55780.941160000002,thousand megawatthours
+2023,MS,Mississippi,NUC,nuclear,0,thousand physical units,11749.621000000001,thousand megawatthours
+2023,MS,Mississippi,COW,all coal products,3887.9340000000002,thousand short tons,4036.9743399999998,thousand megawatthours
+2023,MS,Mississippi,REN,renewable,3727.7359999999999,thousand physical units,1925.0812999999998,thousand megawatthours
+2023,MS,Mississippi,PET,petroleum,20.020999999999997,thousand barrels,6.6283500000000002,thousand megawatthours
+2023,MT,Montana,ALL,all fuels,0,thousand physical units,25823.033530000001,thousand megawatthours
+2023,MT,Montana,REN,renewable,232.42599999999999,thousand physical units,12506.757899999999,thousand megawatthours
+2023,MT,Montana,COW,all coal products,7506.9449999999997,thousand short tons,11576.386770000001,thousand megawatthours
+2023,MT,Montana,NGO,natural gas & other gases,19198.760999999999,thousand Mcf,983.08042,thousand megawatthours
+2023,MT,Montana,PET,petroleum,1389.4200000000001,thousand barrels,491.98695999999995,thousand megawatthours
+2023,NC,North Carolina,ALL,all fuels,0,thousand physical units,128695.79036,thousand megawatthours
+2023,NC,North Carolina,NGO,natural gas & other gases,424696.45600000006,thousand Mcf,53423.937359999996,thousand megawatthours
+2023,NC,North Carolina,NUC,nuclear,0,thousand physical units,42335.725999999995,thousand megawatthours
+2023,NC,North Carolina,REN,renewable,14580.523999999999,thousand physical units,18408.4169,thousand megawatthours
+2023,NC,North Carolina,COW,all coal products,6070.2960000000003,thousand short tons,14202.092689999999,thousand megawatthours
+2023,NC,North Carolina,PET,petroleum,276.50900000000001,thousand barrels,89.277429999999995,thousand megawatthours
+2023,ND,North Dakota,ALL,all fuels,0,thousand physical units,40738.654430000002,thousand megawatthours
+2023,ND,North Dakota,COW,all coal products,19413.453000000001,thousand short tons,22507.943099999997,thousand megawatthours
+2023,ND,North Dakota,REN,renewable,0.22800000000000001,thousand physical units,16132.690140000002,thousand megawatthours
+2023,ND,North Dakota,NGO,natural gas & other gases,29810.490999999998,thousand Mcf,2033.78847,thousand megawatthours
+2023,ND,North Dakota,PET,petroleum,109.22065000000001,thousand barrels,53.54701,thousand megawatthours
+2023,NE,Nebraska,ALL,all fuels,0,thousand physical units,40202.974269999999,thousand megawatthours
+2023,NE,Nebraska,COW,all coal products,11280.49,thousand short tons,17923.556260000001,thousand megawatthours
+2023,NE,Nebraska,REN,renewable,2057.3139999999999,thousand physical units,12971.833610000001,thousand megawatthours
+2023,NE,Nebraska,NUC,nuclear,0,thousand physical units,6926.0529999999999,thousand megawatthours
+2023,NE,Nebraska,NGO,natural gas & other gases,19318.061000000002,thousand Mcf,2343.6910399999997,thousand megawatthours
+2023,NE,Nebraska,PET,petroleum,56.720999999999997,thousand barrels,25.254770000000001,thousand megawatthours
+2023,NH,New Hampshire,ALL,all fuels,0,thousand physical units,16458.242299999998,thousand megawatthours
+2023,NH,New Hampshire,NUC,nuclear,0,thousand physical units,9534.780999999999,thousand megawatthours
+2023,NH,New Hampshire,NGO,natural gas & other gases,31339.272999999997,thousand Mcf,4225.5479100000002,thousand megawatthours
+2023,NH,New Hampshire,REN,renewable,2857.1920000000005,thousand physical units,2428.0298900000003,thousand megawatthours
+2023,NH,New Hampshire,COW,all coal products,69.686999999999998,thousand short tons,160.14028000000002,thousand megawatthours
+2023,NH,New Hampshire,PET,petroleum,163.03800000000001,thousand barrels,56.692640000000004,thousand megawatthours
+2023,NJ,New Jersey,ALL,all fuels,0,thousand physical units,64270.609529999994,thousand megawatthours
+2023,NJ,New Jersey,NGO,natural gas & other gases,268334.11300000001,thousand Mcf,33175.561099999999,thousand megawatthours
+2023,NJ,New Jersey,NUC,nuclear,0,thousand physical units,28335.474000000002,thousand megawatthours
+2023,NJ,New Jersey,REN,renewable,6125.8979999999992,thousand physical units,2322.8595100000002,thousand megawatthours
+2023,NJ,New Jersey,PET,petroleum,60.576000000000008,thousand barrels,39.746299999999998,thousand megawatthours
+2023,NJ,New Jersey,COW,all coal products,0,thousand short tons,0,thousand megawatthours
+2023,NM,New Mexico,ALL,all fuels,0,thousand physical units,38538.6466,thousand megawatthours
+2023,NM,New Mexico,REN,renewable,350.05900000000008,thousand physical units,17602.3393,thousand megawatthours
+2023,NM,New Mexico,NGO,natural gas & other gases,115027.534,thousand Mcf,13576.846250000001,thousand megawatthours
+2023,NM,New Mexico,COW,all coal products,4032.8159999999998,thousand short tons,7371.81333,thousand megawatthours
+2023,NM,New Mexico,PET,petroleum,0,thousand barrels,0,thousand megawatthours
+2023,NV,Nevada,ALL,all fuels,0,thousand physical units,42365.483540000001,thousand megawatthours
+2023,NV,Nevada,NGO,natural gas & other gases,182955.40699999998,thousand Mcf,24631.376160000003,thousand megawatthours
+2023,NV,Nevada,REN,renewable,1045.925,thousand physical units,15679.647369999999,thousand megawatthours
+2023,NV,Nevada,COW,all coal products,1300.029,thousand short tons,2059.6355799999997,thousand megawatthours
+2023,NV,Nevada,PET,petroleum,17.844999999999999,thousand barrels,7.8924300000000001,thousand megawatthours
+2023,NY,New York,ALL,all fuels,0,thousand physical units,124714.75760000001,thousand megawatthours
+2023,NY,New York,NGO,natural gas & other gases,512385.05199999991,thousand Mcf,59514.455870000005,thousand megawatthours
+2023,NY,New York,REN,renewable,18021.777999999998,thousand physical units,36716.757260000006,thousand megawatthours
+2023,NY,New York,NUC,nuclear,0,thousand physical units,27524.922999999999,thousand megawatthours
+2023,NY,New York,PET,petroleum,622.92386999999985,thousand barrels,323.09822000000003,thousand megawatthours
+2023,NY,New York,COW,all coal products,0,thousand short tons,0,thousand megawatthours
+2023,OH,Ohio,ALL,all fuels,0,thousand physical units,132199.13115999999,thousand megawatthours
+2023,OH,Ohio,NGO,natural gas & other gases,618385.73600000003,thousand Mcf,78466.64678000001,thousand megawatthours
+2023,OH,Ohio,COW,all coal products,12800.952999999998,thousand short tons,31466.346860000001,thousand megawatthours
+2023,OH,Ohio,NUC,nuclear,0,thousand physical units,16206.639999999999,thousand megawatthours
+2023,OH,Ohio,REN,renewable,3703.4399999999996,thousand physical units,4957.0331900000001,thousand megawatthours
+2023,OH,Ohio,PET,petroleum,1850.9089999999997,thousand barrels,542.35093000000006,thousand megawatthours
+2023,OK,Oklahoma,ALL,all fuels,0,thousand physical units,89899.660909999991,thousand megawatthours
+2023,OK,Oklahoma,NGO,natural gas & other gases,364045.41500000004,thousand Mcf,44787.877650000002,thousand megawatthours
+2023,OK,Oklahoma,REN,renewable,1983.7139999999999,thousand physical units,39927.311249999999,thousand megawatthours
+2023,OK,Oklahoma,COW,all coal products,3537.0509999999995,thousand short tons,5198.6467999999995,thousand megawatthours
+2023,OK,Oklahoma,PET,petroleum,37.245999999999995,thousand barrels,19.398630000000001,thousand megawatthours
+2023,OR,Oregon,ALL,all fuels,0,thousand physical units,59015.020150000004,thousand megawatthours
+2023,OR,Oregon,REN,renewable,7474.9230000000007,thousand physical units,36527.518199999999,thousand megawatthours
+2023,OR,Oregon,NGO,natural gas & other gases,165010.68100000004,thousand Mcf,22463.359140000004,thousand megawatthours
+2023,OR,Oregon,PET,petroleum,0,thousand barrels,0,thousand megawatthours
+2023,PA,Pennsylvania,ALL,all fuels,0,thousand physical units,235968.13511999999,thousand megawatthours
+2023,PA,Pennsylvania,NGO,natural gas & other gases,1098188.588,thousand Mcf,139724.66601000002,thousand megawatthours
+2023,PA,Pennsylvania,NUC,nuclear,0,thousand physical units,75271.580999999991,thousand megawatthours
+2023,PA,Pennsylvania,COW,all coal products,9839.5169999999998,thousand short tons,12804.141850000002,thousand megawatthours
+2023,PA,Pennsylvania,REN,renewable,16523.588000000003,thousand physical units,8017.9514600000002,thousand megawatthours
+2023,PA,Pennsylvania,PET,petroleum,187.55395999999999,thousand barrels,61.468260000000001,thousand megawatthours
+2023,RI,Rhode Island,ALL,all fuels,0,thousand physical units,8459.2839199999999,thousand megawatthours
+2023,RI,Rhode Island,NGO,natural gas & other gases,61481.126000000004,thousand Mcf,7549.0938400000005,thousand megawatthours
+2023,RI,Rhode Island,REN,renewable,4793.9150000000009,thousand physical units,878.28894000000014,thousand megawatthours
+2023,RI,Rhode Island,PET,petroleum,40.249000000000002,thousand barrels,19.746980000000001,thousand megawatthours
+2023,RI,Rhode Island,COW,all coal products,0,thousand short tons,0,thousand megawatthours
+2023,SC,South Carolina,ALL,all fuels,0,thousand physical units,101795.58093000001,thousand megawatthours
+2023,SC,South Carolina,NUC,nuclear,0,thousand physical units,55622.339999999989,thousand megawatthours
+2023,SC,South Carolina,NGO,natural gas & other gases,194325.23599999998,thousand Mcf,24192.351029999998,thousand megawatthours
+2023,SC,South Carolina,COW,all coal products,6562.6939999999995,thousand short tons,15150.420910000001,thousand megawatthours
+2023,SC,South Carolina,REN,renewable,9064.6890000000003,thousand physical units,7133.2657499999996,thousand megawatthours
+2023,SC,South Carolina,PET,petroleum,218.51800000000003,thousand barrels,97.569790000000012,thousand megawatthours
+2023,SD,South Dakota,ALL,all fuels,0,thousand physical units,16959.487179999996,thousand megawatthours
+2023,SD,South Dakota,REN,renewable,46.433,thousand physical units,13024.52282,thousand megawatthours
+2023,SD,South Dakota,NGO,natural gas & other gases,20966.340999999997,thousand Mcf,2350.29189,thousand megawatthours
+2023,SD,South Dakota,COW,all coal products,1087.624,thousand short tons,1562.7420700000002,thousand megawatthours
+2023,SD,South Dakota,PET,petroleum,31.926000000000002,thousand barrels,14.70937,thousand megawatthours
+2023,TN,Tennessee,ALL,all fuels,0,thousand physical units,79378.897490000003,thousand megawatthours
+2023,TN,Tennessee,NUC,nuclear,0,thousand physical units,37937.437000000005,thousand megawatthours
+2023,TN,Tennessee,COW,all coal products,8952.1180000000004,thousand short tons,15792.90871,thousand megawatthours
+2023,TN,Tennessee,NGO,natural gas & other gases,145143.10599999997,thousand Mcf,15351.707499999997,thousand megawatthours
+2023,TN,Tennessee,REN,renewable,3105.7530000000002,thousand physical units,10747.122219999999,thousand megawatthours
+2023,TN,Tennessee,PET,petroleum,242.98800000000003,thousand barrels,102.99760000000001,thousand megawatthours
+2023,TX,Texas,ALL,all fuels,0,thousand physical units,540597.87159000011,thousand megawatthours
+2023,TX,Texas,NGO,natural gas & other gases,2504738.9510000004,thousand Mcf,278480.92408999999,thousand megawatthours
+2023,TX,Texas,REN,renewable,7833.442,thousand physical units,149237.47235999999,thousand megawatthours
+2023,TX,Texas,COW,all coal products,50705.995999999999,thousand short tons,71614.789820000005,thousand megawatthours
+2023,TX,Texas,NUC,nuclear,0,thousand physical units,40679.870000000003,thousand megawatthours
+2023,TX,Texas,PET,petroleum,567.99300000000005,thousand barrels,238.93464,thousand megawatthours
+2023,UT,Utah,ALL,all fuels,0,thousand physical units,33736.100810000004,thousand megawatthours
+2023,UT,Utah,COW,all coal products,8035.7940000000008,thousand short tons,15912.09708,thousand megawatthours
+2023,UT,Utah,NGO,natural gas & other gases,91068.018999999986,thousand Mcf,11951.160330000002,thousand megawatthours
+2023,UT,Utah,REN,renewable,1181.202,thousand physical units,5739.92814,thousand megawatthours
+2023,UT,Utah,PET,petroleum,56.563000000000009,thousand barrels,29.562779999999997,thousand megawatthours
+2023,VA,Virginia,ALL,all fuels,0,thousand physical units,91847.132109999991,thousand megawatthours
+2023,VA,Virginia,NGO,natural gas & other gases,397912.91600000003,thousand Mcf,51476.059130000001,thousand megawatthours
+2023,VA,Virginia,NUC,nuclear,0,thousand physical units,29662.934999999998,thousand megawatthours
+2023,VA,Virginia,REN,renewable,19567.505000000001,thousand physical units,10104.031769999998,thousand megawatthours
+2023,VA,Virginia,COW,all coal products,916.91099999999994,thousand short tons,1415.02693,thousand megawatthours
+2023,VA,Virginia,PET,petroleum,585.45000000000005,thousand barrels,146.45899,thousand megawatthours
+2023,VT,Vermont,ALL,all fuels,0,thousand physical units,2084.8827799999999,thousand megawatthours
+2023,VT,Vermont,REN,renewable,1416.9870000000001,thousand physical units,2079.1506199999999,thousand megawatthours
+2023,VT,Vermont,NGO,natural gas & other gases,103.05999999999999,thousand Mcf,1.26372,thousand megawatthours
+2023,VT,Vermont,PET,petroleum,1.6379999999999999,thousand barrels,0.30578,thousand megawatthours
+2023,WA,Washington,ALL,all fuels,0,thousand physical units,100735.32242000001,thousand megawatthours
+2023,WA,Washington,REN,renewable,5514.9749999999995,thousand physical units,70049.743590000013,thousand megawatthours
+2023,WA,Washington,NGO,natural gas & other gases,144069.859,thousand Mcf,17988.220969999998,thousand megawatthours
+2023,WA,Washington,NUC,nuclear,0,thousand physical units,8435.018,thousand megawatthours
+2023,WA,Washington,COW,all coal products,2870.172,thousand short tons,4162.607289999999,thousand megawatthours
+2023,WA,Washington,PET,petroleum,221.74372,thousand barrels,29.490300000000001,thousand megawatthours
+2023,WI,Wisconsin,ALL,all fuels,0,thousand physical units,64779.212329999995,thousand megawatthours
+2023,WI,Wisconsin,NGO,natural gas & other gases,226499.85999999996,thousand Mcf,28252.56163,thousand megawatthours
+2023,WI,Wisconsin,COW,all coal products,11946.120000000001,thousand short tons,21109.370289999999,thousand megawatthours
+2023,WI,Wisconsin,NUC,nuclear,0,thousand physical units,9682.7669999999998,thousand megawatthours
+2023,WI,Wisconsin,REN,renewable,10717.559999999999,thousand physical units,5631.8752699999995,thousand megawatthours
+2023,WI,Wisconsin,PET,petroleum,212.48799999999997,thousand barrels,73.590839999999986,thousand megawatthours
+2023,WV,West Virginia,ALL,all fuels,0,thousand physical units,52336.250119999997,thousand megawatthours
+2023,WV,West Virginia,COW,all coal products,18951.989000000001,thousand short tons,44789.755500000007,thousand megawatthours
+2023,WV,West Virginia,REN,renewable,0,thousand physical units,3743.4769700000002,thousand megawatthours
+2023,WV,West Virginia,NGO,natural gas & other gases,38709.077000000005,thousand Mcf,3654.1758500000001,thousand megawatthours
+2023,WV,West Virginia,PET,petroleum,300.79100000000005,thousand barrels,162.78878000000003,thousand megawatthours
+2023,WY,Wyoming,ALL,all fuels,0,thousand physical units,43044.356709999993,thousand megawatthours
+2023,WY,Wyoming,COW,all coal products,20682.516000000003,thousand short tons,30677.120989999996,thousand megawatthours
+2023,WY,Wyoming,REN,renewable,0,thousand physical units,9691.5113399999991,thousand megawatthours
+2023,WY,Wyoming,NGO,natural gas & other gases,57189.505999999994,thousand Mcf,2547.8016599999996,thousand megawatthours
+2023,WY,Wyoming,PET,petroleum,91.439000000000007,thousand barrels,43.704430000000002,thousand megawatthours

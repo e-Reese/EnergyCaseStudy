@@ -1,0 +1,51 @@
+year,location,stateDescription,fueltypeid,fuelTypeDescription,total-annual-consumption,total-consumption-units,total-annual-generation,generation-units
+2023,AK,Alaska,ALL,all fuels,0,thousand physical units,6562.6356099999994,thousand megawatthours
+2023,AL,Alabama,ALL,all fuels,0,thousand physical units,140373.55952000001,thousand megawatthours
+2023,AR,Arkansas,ALL,all fuels,0,thousand physical units,61439.532069999994,thousand megawatthours
+2023,AZ,Arizona,ALL,all fuels,0,thousand physical units,111574.55085,thousand megawatthours
+2023,CA,California,ALL,all fuels,0,thousand physical units,216312.47014999998,thousand megawatthours
+2023,CO,Colorado,ALL,all fuels,0,thousand physical units,57111.17555,thousand megawatthours
+2023,CT,Connecticut,ALL,all fuels,0,thousand physical units,39940.511370000007,thousand megawatthours
+2023,DE,Delaware,ALL,all fuels,0,thousand physical units,4759.2156300000006,thousand megawatthours
+2023,FL,Florida,ALL,all fuels,0,thousand physical units,260267.01475999999,thousand megawatthours
+2023,GA,Georgia,ALL,all fuels,0,thousand physical units,132671.70189999999,thousand megawatthours
+2023,HI,Hawaii,ALL,all fuels,0,thousand physical units,9471.5737800000006,thousand megawatthours
+2023,IA,Iowa,ALL,all fuels,0,thousand physical units,70318.245490000001,thousand megawatthours
+2023,ID,Idaho,ALL,all fuels,0,thousand physical units,15504.798629999998,thousand megawatthours
+2023,IL,Illinois,ALL,all fuels,0,thousand physical units,177823.70170999999,thousand megawatthours
+2023,IN,Indiana,ALL,all fuels,0,thousand physical units,90996.330749999994,thousand megawatthours
+2023,KS,Kansas,ALL,all fuels,0,thousand physical units,59263.099199999997,thousand megawatthours
+2023,KY,Kentucky,ALL,all fuels,0,thousand physical units,63492.719559999998,thousand megawatthours
+2023,LA,Louisiana,ALL,all fuels,0,thousand physical units,97596.77545999999,thousand megawatthours
+2023,MA,Massachusetts,ALL,all fuels,0,thousand physical units,19516.760860000002,thousand megawatthours
+2023,MD,Maryland,ALL,all fuels,0,thousand physical units,36104.323299999996,thousand megawatthours
+2023,ME,Maine,ALL,all fuels,0,thousand physical units,11372.97069,thousand megawatthours
+2023,MI,Michigan,ALL,all fuels,0,thousand physical units,122528.16659999998,thousand megawatthours
+2023,MN,Minnesota,ALL,all fuels,0,thousand physical units,57701.350249999996,thousand megawatthours
+2023,MO,Missouri,ALL,all fuels,0,thousand physical units,67137.487840000002,thousand megawatthours
+2023,MS,Mississippi,ALL,all fuels,0,thousand physical units,73499.246189999991,thousand megawatthours
+2023,MT,Montana,ALL,all fuels,0,thousand physical units,25823.033530000001,thousand megawatthours
+2023,NC,North Carolina,ALL,all fuels,0,thousand physical units,128695.79036,thousand megawatthours
+2023,ND,North Dakota,ALL,all fuels,0,thousand physical units,40738.654430000002,thousand megawatthours
+2023,NE,Nebraska,ALL,all fuels,0,thousand physical units,40202.974269999999,thousand megawatthours
+2023,NH,New Hampshire,ALL,all fuels,0,thousand physical units,16458.242299999998,thousand megawatthours
+2023,NJ,New Jersey,ALL,all fuels,0,thousand physical units,64270.609529999994,thousand megawatthours
+2023,NM,New Mexico,ALL,all fuels,0,thousand physical units,38538.6466,thousand megawatthours
+2023,NV,Nevada,ALL,all fuels,0,thousand physical units,42365.483540000001,thousand megawatthours
+2023,NY,New York,ALL,all fuels,0,thousand physical units,124714.75760000001,thousand megawatthours
+2023,OH,Ohio,ALL,all fuels,0,thousand physical units,132199.13115999999,thousand megawatthours
+2023,OK,Oklahoma,ALL,all fuels,0,thousand physical units,89899.660909999991,thousand megawatthours
+2023,OR,Oregon,ALL,all fuels,0,thousand physical units,59015.020150000004,thousand megawatthours
+2023,PA,Pennsylvania,ALL,all fuels,0,thousand physical units,235968.13511999999,thousand megawatthours
+2023,RI,Rhode Island,ALL,all fuels,0,thousand physical units,8459.2839199999999,thousand megawatthours
+2023,SC,South Carolina,ALL,all fuels,0,thousand physical units,101795.58093000001,thousand megawatthours
+2023,SD,South Dakota,ALL,all fuels,0,thousand physical units,16959.487179999996,thousand megawatthours
+2023,TN,Tennessee,ALL,all fuels,0,thousand physical units,79378.897490000003,thousand megawatthours
+2023,TX,Texas,ALL,all fuels,0,thousand physical units,540597.87159000011,thousand megawatthours
+2023,UT,Utah,ALL,all fuels,0,thousand physical units,33736.100810000004,thousand megawatthours
+2023,VA,Virginia,ALL,all fuels,0,thousand physical units,91847.132109999991,thousand megawatthours
+2023,VT,Vermont,ALL,all fuels,0,thousand physical units,2084.8827799999999,thousand megawatthours
+2023,WA,Washington,ALL,all fuels,0,thousand physical units,100735.32242000001,thousand megawatthours
+2023,WI,Wisconsin,ALL,all fuels,0,thousand physical units,64779.212329999995,thousand megawatthours
+2023,WV,West Virginia,ALL,all fuels,0,thousand physical units,52336.250119999997,thousand megawatthours
+2023,WY,Wyoming,ALL,all fuels,0,thousand physical units,43044.356709999993,thousand megawatthours
